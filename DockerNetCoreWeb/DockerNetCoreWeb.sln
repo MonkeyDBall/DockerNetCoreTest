@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerNetCoreWeb", "DockerNetCoreWeb\DockerNetCoreWeb.csproj", "{02C236D0-FCE2-41CE-AB1A-8C1FA53EDE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C236D0-FCE2-41CE-AB1A-8C1FA53EDE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C236D0-FCE2-41CE-AB1A-8C1FA53EDE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C236D0-FCE2-41CE-AB1A-8C1FA53EDE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C236D0-FCE2-41CE-AB1A-8C1FA53EDE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A921D39C-04D7-4109-B788-379D3607737C}
+	EndGlobalSection
+EndGlobal
